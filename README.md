@@ -1,11 +1,15 @@
 # LeetCode-Solutions-In-Java
 This repository contains solution for some interesting and challenging LeetCode problems solved in Java. 
 
+#### Note:
+     This repo is for educational purposes only.
+
 ## List of Problems:
 
 ### Easy
 
 * Maximum subarray
+  * [Brute Force](https://github.com/akank20/LeetCode-Solutions-In-Java/blob/master/Maximum_Subarray_BruteForce.java)
   * Using Divide and Conquer Approach
   * Using Kadane's Algorithm
 * Majority Element
