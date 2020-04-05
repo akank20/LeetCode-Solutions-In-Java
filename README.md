@@ -16,7 +16,7 @@ This repository contains solution for some interesting and challenging LeetCode 
   * Using Divide and Conquer Approach
 * Add Strings
 * Zombie in a matrix
-* Rotting Oranges
+* [Rotting Oranges](https://github.com/akank20/LeetCode-Solutions-In-Java/blob/master/Rotting_Oranges.java)
 
 ### Medium
 * Top K Frequent Words
