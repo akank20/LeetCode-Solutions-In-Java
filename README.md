@@ -10,7 +10,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 
 * Maximum subarray
   * [Brute Force](https://github.com/akank20/LeetCode-Solutions-In-Java/blob/master/Maximum_Subarray/Maximum_Subarray_BruteForce.java)
-  * [Using Divide and Conquer Approach](https://github.com/akank20/LeetCode-Solutions-In-Java/blob/master/Maximum_Subarray_Divide_n_Conquer.java)
+  * [Using Divide and Conquer Approach](https://github.com/akank20/LeetCode-Solutions-In-Java/blob/master/Maximum_Subarray/Maximum_Subarray_Divide_n_Conquer.java)
   * Using Kadane's Algorithm
 * Majority Element
   * Using Divide and Conquer Approach
