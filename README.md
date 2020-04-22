@@ -26,3 +26,4 @@ This repository contains solution for some interesting and challenging LeetCode 
 ### Hard
 * Topological Sort
 * Course Schedule
+* [Critical Connections in a network](https://github.com/akank20/LeetCode-Solutions-In-Java/blob/master/Critical_Connections)
