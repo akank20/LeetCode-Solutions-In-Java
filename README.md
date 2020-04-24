@@ -22,6 +22,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 * Top K Frequent Words
   * Using Priority Queue
 * Walls and Gates
+* Spiral Matrix
 
 ### Hard
 * Topological Sort
