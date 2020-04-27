@@ -17,7 +17,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 * Add Strings
 * Zombie in a matrix
 * [Rotting Oranges](https://github.com/akank20/LeetCode-Solutions-In-Java/blob/master/Rotting_Oranges.java)
-* Most Common Word
+* [Most Common Word](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Most_Common_Word)
 
 ### Medium
 * Top K Frequent Words
