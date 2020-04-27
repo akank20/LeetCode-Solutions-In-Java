@@ -17,14 +17,17 @@ This repository contains solution for some interesting and challenging LeetCode 
 * Add Strings
 * Zombie in a matrix
 * [Rotting Oranges](https://github.com/akank20/LeetCode-Solutions-In-Java/blob/master/Rotting_Oranges.java)
+* Most Common Word
 
 ### Medium
 * Top K Frequent Words
   * Using Priority Queue
 * Walls and Gates
 * Spiral Matrix
+* Longest Common Subsequence
 
 ### Hard
 * Topological Sort
 * Course Schedule
 * [Critical Connections in a network](https://github.com/akank20/LeetCode-Solutions-In-Java/blob/master/Critical_Connections)
+* Longest Consecutive Sequence
