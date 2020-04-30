@@ -27,7 +27,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 * Spiral Matrix
 * Longest Common Subsequence
 * Treasure Island
-* Number of Islands
+* [Number of Islands](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Number_Of_Islands)
 
 ### Hard
 * Topological Sort
