@@ -26,6 +26,8 @@ This repository contains solution for some interesting and challenging LeetCode 
 * Walls and Gates
 * Spiral Matrix
 * Longest Common Subsequence
+* Treasure Island
+* Number of Islands
 
 ### Hard
 * Topological Sort
