@@ -23,7 +23,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 ### Medium
 * Top K Frequent Words
   * Using Priority Queue
-* Walls and Gates
+* [Walls and Gates](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Walls_And_Gates)
 * Spiral Matrix
 * Longest Common Subsequence
 * Treasure Island
