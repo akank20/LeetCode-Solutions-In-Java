@@ -28,6 +28,8 @@ This repository contains solution for some interesting and challenging LeetCode 
 * Longest Common Subsequence
 * Treasure Island
 * [Number of Islands](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Number_Of_Islands)
+* [Number of Clusters](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Number_Of_Islands)
+* Copy List with Random Pointer
 
 ### Hard
 * Topological Sort
