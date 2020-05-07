@@ -26,6 +26,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 * [Walls and Gates](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Walls_And_Gates)
 * Spiral Matrix
 * Longest Common Subsequence
+* Longest Palindromic Substring
 * Treasure Island
 * [Number of Islands](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Number_Of_Islands)
 * [Number of Clusters](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Number_Of_Islands)
