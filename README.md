@@ -25,7 +25,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 * Top K Frequent Words
   * Using Priority Queue
 * [Walls and Gates](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Walls_And_Gates)
-* Spiral Matrix
+* [Spiral Matrix](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Spiral_Matrrix)
 * Longest Common Subsequence
 * Longest Palindromic Substring
 * Treasure Island
