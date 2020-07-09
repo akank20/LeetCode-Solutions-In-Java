@@ -16,7 +16,6 @@ This repository contains solution for some interesting and challenging LeetCode 
   * Using Divide and Conquer Approach
 * Add Strings
 * Zombie in a matrix
-* [Rotting Oranges](https://github.com/akank20/LeetCode-Solutions-In-Java/blob/master/Rotting_Oranges.java)
 * [Most Common Word](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Most_Common_Word)
 * Subtree of Another Tree
 * Reorder data in log files
@@ -28,6 +27,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 * [Spiral Matrix](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Spiral_Matrrix)
 * Longest Common Subsequence
 * Longest Palindromic Substring
+* [Rotting Oranges](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Rotting_Oranges)
 * Treasure Island
 * [Number of Islands](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Number_Of_Islands)
 * [Number of Clusters](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Number_Of_Islands)
