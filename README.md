@@ -19,6 +19,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 * [Most Common Word](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Most_Common_Word)
 * Subtree of Another Tree
 * Reorder data in log files
+* Squaring a sorted array (Using Two Pointers approach)
 
 ### Medium
 * Top K Frequent Words
