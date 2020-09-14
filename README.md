@@ -15,7 +15,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 * Majority Element
   * Using Divide and Conquer Approach
 * Add Strings
-* Zombie in a matrix
+* [Zombie in a matrix](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Zombie_In_A_Matrix)
 * [Most Common Word](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Most_Common_Word)
 * Subtree of Another Tree
 * Reorder data in log files
