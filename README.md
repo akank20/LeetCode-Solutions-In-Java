@@ -35,7 +35,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 * [Number of Clusters](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Number_Of_Islands)
 * [Copy List with Random Pointer](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Copy_List_With_Random_Pointers)
 * Clone Graph
-* Three Sum
+* [Three Sum](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Three_Sum)
 
 ### Hard
 * Topological Sort
