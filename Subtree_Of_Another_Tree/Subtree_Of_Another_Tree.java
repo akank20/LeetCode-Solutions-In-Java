@@ -15,8 +15,6 @@ public class TreeNode {
  
 class Solution {
     public boolean isSubtree(TreeNode s, TreeNode t) {
-        TreeNode h1=s;
-        TreeNode h2=t;
         
         //Check if root is similar to t or left subtree or right subtree of s is similar to t
         if(s!=null && (similar(s,t) || isSubtree(s.left,t) || isSubtree(s.right,t))){
