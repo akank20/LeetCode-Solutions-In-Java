@@ -17,7 +17,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 * Add Strings
 * [Zombie in a matrix](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Zombie_In_A_Matrix)
 * [Most Common Word](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Most_Common_Word)
-* Subtree of Another Tree
+* [Subtree of Another Tree](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Subtree_Of_Another_Tree)
 * Reorder data in log files
 * [Squaring a sorted array (Using Two Pointers Approach)](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Squares_Of_Sorted_Array)
 * [Linked List Cycle](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Linked_List_Cycle)
