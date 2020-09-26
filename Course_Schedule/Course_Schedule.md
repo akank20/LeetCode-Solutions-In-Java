@@ -23,3 +23,5 @@ The input prerequisites is a graph represented by a list of edges, not adjacency
 Assume that there are no duplicate edges in the input prerequisites.
 1 <= numCourses <= 10^5
 ```
+
+APPROACH: Topological Sort
