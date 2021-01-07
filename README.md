@@ -46,7 +46,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 
 ## Design Problems
 
-* Least Recently Used Cache (LRU Cache)
+* [Least Recently Used Cache (LRU Cache)](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/LRU_Cache)
 * Design HashMap
 * Design LinkedList (Linked-List Conctruction)
 * Design Tic-Tac-Toe Game
