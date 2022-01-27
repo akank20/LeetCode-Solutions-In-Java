@@ -44,6 +44,7 @@ This repository contains solution for some interesting and challenging LeetCode 
 * [Course Schedule](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Course_Schedule)
 * [Critical Connections in a network](https://github.com/akank20/LeetCode-Solutions-In-Java/blob/master/Critical_Connections)
 * Longest Consecutive Sequence
+* [Text Justification](https://github.com/akank20/LeetCode-Solutions-In-Java/tree/master/Text_Justification)
 
 ## Design Problems
 
